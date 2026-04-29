@@ -14,9 +14,9 @@ A full-stack MERN platform that intelligently matches hackathon participants wit
 <p align="center"> <img src="https://github.com/user-attachments/assets/278764c4-831b-4412-958e-ed5fe9622971" width="90%" /> </p>
 🌍 Hackathons Page
 <p align="center"> <img src="https://github.com/user-attachments/assets/f59868c7-f4d9-44ff-a041-853c2a4774c3" width="90%" /> </p>
-👤 Profile Page
+👤 Collaborative Editor
 <p align="center"> <img src="https://github.com/user-attachments/assets/0d871982-9c1e-481b-b69a-8cf70d7047d8" width="90%" /> </p>
-💬 Chat System
+👤 Profile Page
 <p align="center"> <img src="https://github.com/user-attachments/assets/d8c69040-7ef1-4e2c-a77e-f8feb3d2bcb0" width="90%" /> </p>
 
 
