@@ -5,6 +5,21 @@
 A full-stack MERN platform that intelligently matches hackathon participants with the right teammates, projects, and now **live hackathons across platforms**.
 
 ---
+📸 UI Preview
+🏠 Dashboard
+<p align="center"> <img src="https://github.com/user-attachments/assets/c776b2fd-cc2d-4b22-afc0-69060e21fdc9" width="90%" /> </p>
+🤝 Matching Page
+<p align="center"> <img src="https://github.com/user-attachments/assets/4d51e710-8a3b-48aa-8465-f4207a618691" width="90%" /> </p>
+📦 Projects Page
+<p align="center"> <img src="https://github.com/user-attachments/assets/278764c4-831b-4412-958e-ed5fe9622971" width="90%" /> </p>
+🌍 Hackathons Page
+<p align="center"> <img src="https://github.com/user-attachments/assets/f59868c7-f4d9-44ff-a041-853c2a4774c3" width="90%" /> </p>
+👤 Profile Page
+<p align="center"> <img src="https://github.com/user-attachments/assets/0d871982-9c1e-481b-b69a-8cf70d7047d8" width="90%" /> </p>
+💬 Chat System
+<p align="center"> <img src="https://github.com/user-attachments/assets/d8c69040-7ef1-4e2c-a77e-f8feb3d2bcb0" width="90%" /> </p>
+
+
 
 ## 🌟 Key Features
 
