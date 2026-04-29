@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
-const API_BASE = `${process.env.VITE_API_URL}/api`;  // your port, not 3001
+const API_BASE = `/api`;  // your port, not 3001
 
 const PLATFORMS = [
   { id: "all", label: "All Platforms", color: "#a78bfa", bg: "#1e1b4b" },
