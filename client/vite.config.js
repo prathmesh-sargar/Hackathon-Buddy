@@ -10,11 +10,11 @@ export default ({ mode }) => {
       port: 5173,
       proxy: {
         '/api': {
-          target: import.meta.env.VITE_SOCKET_URL,
+          target: env.VITE_API_URL,
           changeOrigin: true,
         },
         '/socket.io': {
-          target: import.meta.env.VITE_SOCKET_URL,
+          target: env.VITE_SOCKET_URL,
           ws: true,
         },
       },
