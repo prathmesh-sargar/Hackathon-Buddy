@@ -46,7 +46,7 @@ export const matchAPI = {
 // GitHub endpoints
 export const githubAPI = {
   login: (userId) => {
-    window.open(`/api/github/login?userId=${userId}`, '_blank', 'width=600,height=700');
+    window.open(`${import.env.VITE_API_URL}/api/github/login?userId=${userId}`, '_blank', 'width=600,height=700');
   },
   linkRepo: (data) => api.post('/github/link-repo', data),
   getFiles: (projectId, path = '') => api.get(`/github/files/${projectId}?path=${path}`),
